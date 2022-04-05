@@ -8,9 +8,9 @@ Toutes les apis du backend fonctionne parfaitement.
 Le frontend lui utilise le framework VueJs
 
 Fonctionnalités :
-**Obtenir des produits a partir de l'API
-**Lister les produits a partir de l'API
-**Détails du produit
-**Gestion basique du panier
-**Authentification et Authorisation
+**Obtenir des produits a partir de l'API<br>
+**Lister les produits a partir de l'API<br>
+**Détails du produit<br>
+**Gestion basique du panier<br>
+**Authentification et Authorisation<br>
 **Ajouter des produits au panier
